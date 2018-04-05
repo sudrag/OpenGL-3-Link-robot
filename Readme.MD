@@ -22,5 +22,5 @@ To increase and decrease the respective values for:
 * Zoom in and out - `↑`and `↓` 
 * Rotate camera   - `←`and `→` 
 
-![Screenshot](https://github.com/sudrag/OpenGL-3-Link-robot/pic.png)
+![Screenshot](https://github.com/sudrag/OpenGL-3-Link-robot/blob/master/pic.png)
 
